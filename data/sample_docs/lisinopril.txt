@@ -1,0 +1,57 @@
+SYNTHETIC SAMPLE LABEL - FOR PIPELINE TESTING ONLY, NOT FOR CLINICAL USE
+Replace with real DailyMed data via scripts/fetch_dailymed.py before demoing.
+
+LISINOPRIL TABLETS
+
+DESCRIPTION
+Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used to
+treat hypertension and heart failure. Available in 2.5 mg, 5 mg, 10 mg,
+20 mg, and 40 mg tablets.
+
+INDICATIONS AND USAGE
+Lisinopril is indicated for the treatment of hypertension, to reduce risk
+of stroke and cardiovascular events, for the treatment of heart failure as
+an adjunct therapy, and for improving survival following acute myocardial
+infarction.
+
+DOSAGE AND ADMINISTRATION
+Hypertension, adults: initial dose 10 mg once daily. Dosage should be
+adjusted according to blood pressure response, typically in the range of
+20-40 mg per day as a single dose. Heart failure: initial dose 5 mg once
+daily, titrated to a target dose of 20-40 mg once daily as tolerated.
+
+CONTRAINDICATIONS
+Lisinopril is contraindicated in patients with a history of angioedema
+related to previous ACE inhibitor treatment, and should not be
+co-administered with aliskiren in patients with diabetes.
+
+WARNINGS
+ACE inhibitors can cause fetal harm when administered to a pregnant woman;
+discontinue as soon as pregnancy is detected. Angioedema of the face, lips,
+tongue, and/or larynx has been reported and may occur at any time during
+treatment. Symptomatic hypotension may occur, especially in
+volume-depleted patients.
+
+ADVERSE REACTIONS
+The most commonly reported adverse reactions are dizziness, headache,
+cough, and hyperkalemia. Hypotension may occur, particularly after the
+first dose in patients who are volume- or salt-depleted.
+
+DRUG INTERACTIONS
+Concomitant use with potassium-sparing diuretics, potassium supplements, or
+salt substitutes containing potassium may lead to hyperkalemia. NSAIDs may
+reduce the antihypertensive effect of lisinopril and increase the risk of
+renal impairment when used together.
+
+USE IN SPECIFIC POPULATIONS
+Pregnancy: Category D — discontinue lisinopril as soon as possible once
+pregnancy is detected. Renal impairment: dosage adjustment is required in
+patients with reduced creatinine clearance.
+
+OVERDOSAGE
+The most likely manifestation of overdosage would be hypotension.
+Treatment is generally supportive, including intravenous fluids for
+hypotension.
+
+HOW SUPPLIED
+Tablets are supplied in bottles of 30, 90, and 1000 count.

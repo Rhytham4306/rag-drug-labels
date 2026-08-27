@@ -1,0 +1,54 @@
+SYNTHETIC SAMPLE LABEL - FOR PIPELINE TESTING ONLY, NOT FOR CLINICAL USE
+Replace with real DailyMed data via scripts/fetch_dailymed.py before demoing.
+
+METFORMIN HYDROCHLORIDE TABLETS
+
+DESCRIPTION
+Metformin hydrochloride is an oral antihyperglycemic drug used in the
+management of type 2 diabetes mellitus. It is available as 500 mg, 850 mg,
+and 1000 mg tablets.
+
+INDICATIONS AND USAGE
+Metformin is indicated as an adjunct to diet and exercise to improve
+glycemic control in adults and children 10 years of age and older with
+type 2 diabetes mellitus.
+
+DOSAGE AND ADMINISTRATION
+Adults: the usual starting dose is 500 mg twice daily or 850 mg once daily,
+given with meals. Dosage may be increased gradually in increments of 500
+mg weekly, up to a maximum of 2550 mg per day in divided doses.
+
+CONTRAINDICATIONS
+Metformin is contraindicated in patients with severe renal impairment
+(eGFR below 30 mL/min/1.73 m2), and in patients with known hypersensitivity
+to metformin.
+
+WARNINGS
+Lactic acidosis is a rare but serious metabolic complication that can occur
+due to metformin accumulation. The risk increases with conditions such as
+renal impairment, sepsis, dehydration, and excessive alcohol intake.
+Metformin should be temporarily discontinued prior to procedures involving
+iodinated contrast materials.
+
+ADVERSE REACTIONS
+The most common adverse reactions are gastrointestinal: diarrhea, nausea,
+vomiting, flatulence, and abdominal discomfort. These are usually transient
+and occur during initiation of therapy.
+
+DRUG INTERACTIONS
+Carbonic anhydrase inhibitors, alcohol, and cationic drugs eliminated by
+renal tubular secretion may increase metformin levels. Concurrent use with
+insulin or sulfonylureas may increase the risk of hypoglycemia.
+
+USE IN SPECIFIC POPULATIONS
+Renal impairment: assess renal function before starting therapy and at
+least annually thereafter. Pediatric use: safety and effectiveness have
+been established in pediatric patients 10 to 16 years of age.
+
+OVERDOSAGE
+Overdose of metformin, or concurrent risk factors, has been associated
+with lactic acidosis, which is a medical emergency requiring hospital
+treatment. Hemodialysis may be used to remove metformin.
+
+HOW SUPPLIED
+Tablets are supplied in bottles of 100 and 500 count.

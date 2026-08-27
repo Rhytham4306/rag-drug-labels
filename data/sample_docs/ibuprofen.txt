@@ -1,0 +1,58 @@
+SYNTHETIC SAMPLE LABEL - FOR PIPELINE TESTING ONLY, NOT FOR CLINICAL USE
+Replace with real DailyMed data via scripts/fetch_dailymed.py before demoing.
+
+IBUPROFEN TABLETS, USP
+
+DESCRIPTION
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) with analgesic
+and antipyretic properties. Each tablet contains 200 mg or 400 mg of
+ibuprofen for oral administration.
+
+INDICATIONS AND USAGE
+Ibuprofen is indicated for the temporary relief of minor aches and pains
+associated with headache, muscular aches, backache, minor arthritis pain,
+toothache, and for reduction of fever.
+
+DOSAGE AND ADMINISTRATION
+Adults and children 12 years and over: take 1 tablet (200 mg) every 4 to 6
+hours while symptoms persist. If pain or fever does not respond to 1
+tablet, 2 tablets (400 mg) may be used. Do not exceed 6 tablets (1200 mg)
+in 24 hours unless directed by a doctor. Do not use for more than 10 days
+for pain, or 3 days for fever, unless directed by a doctor.
+
+CONTRAINDICATIONS
+Do not use if you have ever had an allergic reaction to any other pain
+reliever/fever reducer. Do not use right before or after heart surgery.
+
+WARNINGS
+NSAIDs may cause an increased risk of serious cardiovascular thrombotic
+events, myocardial infarction, and stroke. This risk may increase with
+duration of use. NSAIDs may also increase the risk of serious
+gastrointestinal adverse events including bleeding, ulceration, and
+perforation of the stomach or intestines.
+
+ADVERSE REACTIONS
+Most common adverse reactions include gastrointestinal events such as
+nausea, dyspepsia, diarrhea, abdominal pain, and constipation. Less
+commonly reported: dizziness, headache, rash.
+
+DRUG INTERACTIONS
+Concomitant use with aspirin, other NSAIDs, corticosteroids, anticoagulants
+such as warfarin, or SSRIs may increase the risk of gastrointestinal
+bleeding. Ibuprofen may reduce the antihypertensive effect of ACE
+inhibitors and diuretics.
+
+USE IN SPECIFIC POPULATIONS
+Pregnancy: avoid use in pregnant women starting at 20 weeks gestation, as
+NSAIDs are associated with fetal renal dysfunction. Pediatric use: safety
+and effectiveness in children under 2 years have not been established for
+over-the-counter use.
+
+OVERDOSAGE
+Symptoms of acute overdose include nausea, vomiting, epigastric pain, and
+more rarely diarrhea, headache, tinnitus, and gastrointestinal bleeding. In
+severe poisoning, metabolic acidosis and renal failure may occur. Treatment
+is supportive; contact a poison control center.
+
+HOW SUPPLIED
+Tablets are supplied in bottles of 24, 50, and 100 count.

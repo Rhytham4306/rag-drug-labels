@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the maximum daily dose of ibuprofen tablets for adults?",
+    "gold_source": "ibuprofen"
+  },
+  {
+    "question": "How long can ibuprofen be used for pain before a doctor should be consulted?",
+    "gold_source": "ibuprofen"
+  },
+  {
+    "question": "What cardiovascular risks are associated with NSAIDs like ibuprofen?",
+    "gold_source": "ibuprofen"
+  },
+  {
+    "question": "At what gestational age should ibuprofen be avoided in pregnancy?",
+    "gold_source": "ibuprofen"
+  },
+  {
+    "question": "What is the starting dose of metformin for adults with type 2 diabetes?",
+    "gold_source": "metformin"
+  },
+  {
+    "question": "What is the maximum daily dose of metformin?",
+    "gold_source": "metformin"
+  },
+  {
+    "question": "What serious metabolic complication is metformin associated with?",
+    "gold_source": "metformin"
+  },
+  {
+    "question": "Under what kidney function level is metformin contraindicated?",
+    "gold_source": "metformin"
+  },
+  {
+    "question": "What is the initial dose of lisinopril for treating hypertension?",
+    "gold_source": "lisinopril"
+  },
+  {
+    "question": "What is the target dose range of lisinopril for heart failure?",
+    "gold_source": "lisinopril"
+  },
+  {
+    "question": "What condition related to previous ACE inhibitor use makes lisinopril contraindicated?",
+    "gold_source": "lisinopril"
+  },
+  {
+    "question": "Why should lisinopril not be combined with potassium-sparing diuretics?",
+    "gold_source": "lisinopril"
+  },
+  {
+    "question": "What should be done with lisinopril if pregnancy is detected?",
+    "gold_source": "lisinopril"
+  },
+  {
+    "question": "What are the most common adverse reactions to metformin?",
+    "gold_source": "metformin"
+  },
+  {
+    "question": "What is the recommended treatment for a lisinopril overdose?",
+    "gold_source": "lisinopril"
+  }
+]
